@@ -1,4 +1,4 @@
-# window创建python虚拟环境指南 / Guide to Creating a Python Virtual Environment in Windows
+# 在Windows创建Python虚拟环境指南 / Create a Python virtual environment in the Windows environment
 需要先用vscode打开目标文件夹。
 
 然后运行
