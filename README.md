@@ -5,7 +5,7 @@
 
 D:\Python313\python -m venv venv1
 
-即可创建一个名字为venv1的虚拟环境 (D:\Python313\为python环境的安装路径)。
+即可创建一个名字为venv1的虚拟环境 (D:\Python313\为为本人Python的安装路径)。
 
 输入
 
